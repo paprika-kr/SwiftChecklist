@@ -10,6 +10,7 @@
 		F717119B266A1F0700291357 /* Checklistitem.swift in Sources */ = {isa = PBXBuildFile; fileRef = F717119A266A1F0700291357 /* Checklistitem.swift */; };
 		F717119F266A1F8600291357 /* Checklist.swift in Sources */ = {isa = PBXBuildFile; fileRef = F717119E266A1F8600291357 /* Checklist.swift */; };
 		F71711A4266A24A300291357 /* EditChecklistItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F71711A3266A24A300291357 /* EditChecklistItemView.swift */; };
+		F77AE1742674996100EA9CDD /* NewChecklistItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F77AE1732674996100EA9CDD /* NewChecklistItemView.swift */; };
 		F7BD183A2662758E00F84A1C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7BD18392662758E00F84A1C /* AppDelegate.swift */; };
 		F7BD183C2662758E00F84A1C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7BD183B2662758E00F84A1C /* SceneDelegate.swift */; };
 		F7BD183E2662758E00F84A1C /* ChecklistView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7BD183D2662758E00F84A1C /* ChecklistView.swift */; };
@@ -22,6 +23,7 @@
 		F717119A266A1F0700291357 /* Checklistitem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Checklistitem.swift; sourceTree = "<group>"; };
 		F717119E266A1F8600291357 /* Checklist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Checklist.swift; sourceTree = "<group>"; };
 		F71711A3266A24A300291357 /* EditChecklistItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditChecklistItemView.swift; sourceTree = "<group>"; };
+		F77AE1732674996100EA9CDD /* NewChecklistItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewChecklistItemView.swift; sourceTree = "<group>"; };
 		F7BD18362662758E00F84A1C /* ChecklistV2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChecklistV2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7BD18392662758E00F84A1C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F7BD183B2662758E00F84A1C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				F7BD18392662758E00F84A1C /* AppDelegate.swift */,
 				F7BD183B2662758E00F84A1C /* SceneDelegate.swift */,
 				F7BD183D2662758E00F84A1C /* ChecklistView.swift */,
+				F77AE1732674996100EA9CDD /* NewChecklistItemView.swift */,
 				F717119A266A1F0700291357 /* Checklistitem.swift */,
 				F717119E266A1F8600291357 /* Checklist.swift */,
 				F71711A3266A24A300291357 /* EditChecklistItemView.swift */,
@@ -159,6 +162,7 @@
 				F7BD183C2662758E00F84A1C /* SceneDelegate.swift in Sources */,
 				F7BD183E2662758E00F84A1C /* ChecklistView.swift in Sources */,
 				F71711A4266A24A300291357 /* EditChecklistItemView.swift in Sources */,
+				F77AE1742674996100EA9CDD /* NewChecklistItemView.swift in Sources */,
 				F717119B266A1F0700291357 /* Checklistitem.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
