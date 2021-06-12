@@ -16,6 +16,12 @@ struct EditChecklistItemView: View {
             TextField("Name", text: $checklistItem.name)
             Toggle("Completed", isOn: $checklistItem.isChecked)
         } //End of Form
+        .onAppear() {
+            print("ChecklistView has appeared!")
+        }
+        .onDisappear() {
+            print("ChecklistView has disappeared!")
+        }
     } // End of body
 }
 
