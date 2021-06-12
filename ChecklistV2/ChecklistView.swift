@@ -38,7 +38,7 @@ struct ChecklistView: View {
             .navigationBarItems(
                 leading: Button(action: {self.newChecklistItemViewIsVisible = true }) {
                     HStack {
-                        Image(systemName: "plus.cirlce.fill")
+                        Image(systemName: "plus.circle.fill")
                         Text("Add item")
                     }
                 },
